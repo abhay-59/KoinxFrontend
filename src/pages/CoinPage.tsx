@@ -10,7 +10,6 @@ import TrendingCoins from "../components/TrendingCoins"
 import Team from "../components/TeamCard"
 import SuggestionSection from "../components/SuggestionSection"
 
-
 function CoinPage() {
   return (
     <div className="h-full w-screen bg-slate-200/40">
