@@ -37,7 +37,14 @@ npm run dev
 1. Access the app at `http://localhost:5173`.
 2. Navigate to the dashboard and view the crypto-currencies.
 
----
-
 ## Major Features Demonstration
 
+<img src="https://github.com/user-attachments/assets/a602cd09-3363-4169-872f-08d95f30c20c" width="700" height="370">
+
+---
+<img src="https://github.com/user-attachments/assets/64782433-86ca-40ac-9c24-9ecebb6506b2" width="700" height="370">
+
+---
+<img src="https://github.com/user-attachments/assets/17a0e42b-d921-49f6-952a-6870f170dd41" width="700" height="370">
+
+---
